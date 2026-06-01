@@ -32,15 +32,15 @@
 
 | 浏览器 | 内核 | 免费额度 | API | 特点 |
 |--------|------|----------|-----|------|
-| [AdsPower](https://www.adspower.net/) | Chromium (Sun) + Firefox (Flower) | 5 个配置文件 | ✅ Local API | 900 万+用户，RPA 构建器，多窗口同步，团队协作。行业最完整的自动化 API。[API 文档](https://localapi-doc-en.adspower.com/) |
-| [Multilogin](https://multilogin.com/) | Mimic + Stealthfox | 无 | ✅ | 内置住宅代理，企业级指纹管理 |
-| [GoLogin](https://gologin.com/) | Orbita (Chromium) | 3 个配置文件 | ✅ | 内置代理流量，移动端配置文件 |
-| [Dolphin Anty](https://dolphin-anty.com/) | Chromium | 10 个配置文件 | ✅ | 联盟营销圈流行，团队功能 |
-| [Octo Browser](https://octobrowser.net/) | Chromium | 无 | ✅ | 内核级指纹管理 |
-| [Incogniton](https://incogniton.com/) | Chromium + Firefox | 10 个配置文件 | ✅ | Selenium/Puppeteer 集成 |
-| [Kameleo](https://kameleo.io/) | Chromium + Firefox + WebKit | 无 | ✅ | 移动端指纹（Android/iOS） |
-| [VMLogin](https://www.vmlogin.us/) | Chromium | 3 个配置文件 | ✅ | 云端配置文件 |
-| [BitBrowser](https://www.bitbrowser.net/) | Chromium | 10 个配置文件 | ✅ | 预算选项，RPA 支持 |
+| [AdsPower](https://www.adspower.net/) | Chromium (Sun) + Firefox (Flower) | 2 个配置文件 | ✅ Local API | 900 万+用户，RPA 构建器，多窗口同步，团队协作。行业最完整的自动化 API。[API 文档](https://localapi-doc-en.adspower.com/) |
+| [Multilogin] | Mimic + Stealthfox | 无 | ✅ | 内置住宅代理，企业级指纹管理 |
+| [GoLogin] | Orbita (Chromium) | 3 个配置文件 | ✅ | 内置代理流量，移动端配置文件 |
+| [Dolphin Anty] | Chromium | 10 个配置文件 | ✅ | 联盟营销圈流行，团队功能 |
+| [Octo Browser] | Chromium | 无 | ✅ | 内核级指纹管理 |
+| [Incogniton] | Chromium + Firefox | 10 个配置文件 | ✅ | Selenium/Puppeteer 集成 |
+| [Kameleo] | Chromium + Firefox + WebKit | 无 | ✅ | 移动端指纹（Android/iOS） |
+| [VMLogin] | Chromium | 3 个配置文件 | ✅ | 云端配置文件 |
+| [BitBrowser] | Chromium | 10 个配置文件 | ✅ | 预算选项，RPA 支持 |
 
 ## 浏览器指纹技术
 
