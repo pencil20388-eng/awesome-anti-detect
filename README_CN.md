@@ -140,6 +140,7 @@ selenium_addr = resp["data"]["ws"]["selenium"]        # Selenium 用
 - [Selenium + AdsPower 集成指南](https://github.com/pencil20388-eng/awesome-adspower-automation/blob/main/guides/selenium-integration.md)
 - [Playwright + AdsPower 集成指南](https://github.com/pencil20388-eng/awesome-adspower-automation/blob/main/guides/playwright-integration.md)
 - [常见 API 问题排查](https://github.com/pencil20388-eng/awesome-adspower-automation/blob/main/guides/troubleshooting.md)
+- [指纹浏览器排行榜与选购指南](https://github.com/pencil20388-eng/fingerprint-browser) — 指纹浏览器怎么选，中文入门
 
 ## 社区
 
