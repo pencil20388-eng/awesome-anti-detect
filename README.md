@@ -33,6 +33,7 @@ Browsers that create isolated profiles with unique fingerprints for each session
 
 | Browser | Engines | Free Tier | API | Highlights |
 |---------|---------|-----------|-----|------------|
+| [AntiBrow](https://antibrow.com) | Chromium fork (engine-level fingerprint) | Unlimited local profiles, 1 concurrent | ✅ Playwright API + MCP server | Driven from Python/TypeScript rather than a GUI; profiles persist cookies, storage and fingerprint; one proxy per profile answered in the network stack. [Docs](https://antibrow.com/docs) |
 | [AdsPower](https://www.adspower.net/) | Chromium (Sun) + Firefox (Flower) | 2 profiles | ✅ Local API | 9M+ users, RPA builder, multi-window sync, team collaboration. Best automation API in the category. [API Docs](https://localapi-doc-en.adspower.com/) |
 | [Multilogin] | Mimic (Chromium) + Stealthfox (Firefox) | No | ✅ | Built-in residential proxies, enterprise-grade fingerprinting |
 | [GoLogin] | Orbita (Chromium) | 3 profiles | ✅ | Built-in proxy traffic, mobile profiles, clean UI |
