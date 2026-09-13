@@ -43,6 +43,7 @@ Browsers that create isolated profiles with unique fingerprints for each session
 | [Linken Sphere] | Chromium | No | Limited | High-end, advanced config builder |
 | [VMLogin] | Chromium | 3 profiles | ✅ | Cloud profiles, Selenium/Puppeteer support |
 | [BitBrowser] | Chromium | 10 profiles | ✅ | Budget option, RPA support |
+| [Hexium Browser](https://github.com/HeadlessXLabs/hexium-browser) | Chromium 151 | Open source (PyPI) | Playwright `launch()` | C++ personas, no JS injectors. Linux x86_64 alpha. Persistent profiles, humanize, GeoIP. |
 
 ## Browser Fingerprinting
 
