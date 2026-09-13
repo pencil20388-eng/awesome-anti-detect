@@ -41,6 +41,7 @@
 | [Kameleo] | Chromium + Firefox + WebKit | 无 | ✅ | 移动端指纹（Android/iOS） |
 | [VMLogin] | Chromium | 3 个配置文件 | ✅ | 云端配置文件 |
 | [BitBrowser] | Chromium | 10 个配置文件 | ✅ | 预算选项，RPA 支持 |
+| [Hexium Browser](https://github.com/HeadlessXLabs/hexium-browser) | Chromium 151 | 开源 (PyPI) | Playwright `launch()` | C++ 人格，无 JS 注入。Linux x86_64 alpha。持久化配置文件、humanize、GeoIP。 |
 
 ## 浏览器指纹技术
 
