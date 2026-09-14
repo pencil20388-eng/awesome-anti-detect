@@ -79,6 +79,7 @@
 | Cover Your Tracks | EFF 追踪保护评估 | [coveryourtracks.eff.org](https://coveryourtracks.eff.org/) |
 | CreepJS | 高级指纹检测 | [abrahamjuliot.github.io/creepjs](https://abrahamjuliot.github.io/creepjs/) |
 | Pixelscan | 机器人检测和指纹分析 | [pixelscan.net](https://pixelscan.net/) |
+| Lamis Network | 实时 IP 欺诈评分、代理/VPN/Tor 泄露检测与信誉 API | [lamisnetwork.com](https://lamisnetwork.com) |
 
 ## 代理服务
 
