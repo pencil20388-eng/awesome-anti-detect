@@ -88,6 +88,7 @@ Test and verify your browser fingerprint configuration.
 | CreepJS | Advanced fingerprint detection | [abrahamjuliot.github.io/creepjs](https://abrahamjuliot.github.io/creepjs/) |
 | Pixelscan | Bot detection and fingerprint analysis | [pixelscan.net](https://pixelscan.net/) |
 | IPHey | IP, DNS leak, WebRTC leak check | [iphey.com](https://iphey.com/) |
+| Lamis Network | Real-time IP fraud scoring, proxy/VPN/Tor leak detection & reputation API | [lamisnetwork.com](https://lamisnetwork.com) |
 
 ## Proxy Services
 
