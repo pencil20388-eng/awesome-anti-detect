@@ -86,6 +86,7 @@ Test and verify your browser fingerprint configuration.
 | AmIUnique | Fingerprint uniqueness comparison | [amiunique.org](https://amiunique.org/) |
 | Cover Your Tracks (EFF) | Tracking protection assessment | [coveryourtracks.eff.org](https://coveryourtracks.eff.org/) |
 | CreepJS | Advanced fingerprint detection | [abrahamjuliot.github.io/creepjs](https://abrahamjuliot.github.io/creepjs/) |
+| EnvTrace | Fingerprint, IP/proxy, WebRTC/DNS leaks, timezone/language consistency, automation traces → health score | [envtrace.net](https://envtrace.net/) |
 | Pixelscan | Bot detection and fingerprint analysis | [pixelscan.net](https://pixelscan.net/) |
 | IPHey | IP, DNS leak, WebRTC leak check | [iphey.com](https://iphey.com/) |
 
