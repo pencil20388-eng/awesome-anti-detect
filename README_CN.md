@@ -41,6 +41,7 @@
 | [Kameleo] | Chromium + Firefox + WebKit | 无 | ✅ | 移动端指纹（Android/iOS） |
 | [VMLogin] | Chromium | 3 个配置文件 | ✅ | 云端配置文件 |
 | [BitBrowser] | Chromium | 10 个配置文件 | ✅ | 预算选项，RPA 支持 |
+| [AUG WorkSpace](https://aug.jokerdao.win/) | WebKit（macOS 原生） | 免费档 | ✅ HTTP API / SDK / MCP（团队版+） | macOS 原生 WebKit 反检测浏览器（独立 `WKWebsiteDataStore`、Safari 同源身份、零 CDP 自动化、本地优先）。[公开文档与实测](https://github.com/givegive0709-lgtm/aug-workspace) |
 
 ## 浏览器指纹技术
 

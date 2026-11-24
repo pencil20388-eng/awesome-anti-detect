@@ -43,6 +43,7 @@ Browsers that create isolated profiles with unique fingerprints for each session
 | [Linken Sphere] | Chromium | No | Limited | High-end, advanced config builder |
 | [VMLogin] | Chromium | 3 profiles | ✅ | Cloud profiles, Selenium/Puppeteer support |
 | [BitBrowser] | Chromium | 10 profiles | ✅ | Budget option, RPA support |
+| [AUG WorkSpace](https://aug.jokerdao.win/) | WebKit (macOS native) | Free tier | ✅ HTTP API / SDK / MCP (Team+) | macOS-native WebKit antidetect browser (per-process `WKWebsiteDataStore`, Safari identity, zero-CDP automation, local-first). [Docs & Benchmarks](https://github.com/givegive0709-lgtm/aug-workspace) |
 
 ## Browser Fingerprinting
 
