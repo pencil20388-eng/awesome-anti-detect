@@ -43,6 +43,7 @@ Browsers that create isolated profiles with unique fingerprints for each session
 | [Linken Sphere] | Chromium | No | Limited | High-end, advanced config builder |
 | [VMLogin] | Chromium | 3 profiles | ✅ | Cloud profiles, Selenium/Puppeteer support |
 | [BitBrowser] | Chromium | 10 profiles | ✅ | Budget option, RPA support |
+| [AnyProfile](https://github.com/D0bby999/anyprofile) | AnyBrowser (Chromium) + Apostate + Fury | Unlimited (Open Source, AGPL-3.0) | ✅ Local API + MCP | Local-first Go/Wails desktop app, Keychain-encrypted vault, fail-closed 127.0.0.1 proxy relay, native MCP for AI agents |
 
 ## Browser Fingerprinting
 
